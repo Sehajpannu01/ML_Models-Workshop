@@ -1,5 +1,3 @@
-In my first project I have used KNN
-
 Introduction
 The K-Nearest Neighbors (KNN) algorithm is a simple and intuitive supervised machine learning algorithm used for classification and regression tasks. The algorithm classifies a data point based on how its neighbors are classified.
 How KNN Works
