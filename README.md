@@ -9,6 +9,4 @@ How KNN Works
 Distance Metrics
 -Common distance metrics used in KNN include:
 
-1. Euclidean Distance
-2. Manhattan Distance
-3. Minkowski Distance
+- Euclidean Distance
