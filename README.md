@@ -13,7 +13,7 @@ Distance Metrics
 - Euclidean Distance
 
 
-
+------------------------------------------------------------------------------------------------------------------------------------
 
 #Linear Regression:
 Linear Regression is a supervised learning algorithm used for predicting a continuous target variable based on one or more input features. It models the relationship between the dependent variable (target) and independent variables (features) by fitting a linear equation to the observed data.
