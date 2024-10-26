@@ -1,0 +1,8 @@
+small,10,cob
+medium,12,peter
+large,15,monte
+Small,11,monte
+medium,10,cantabil
+Medium,10,cob
+
+
