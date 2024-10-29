@@ -6,6 +6,7 @@ from sklearn.metrics import accuracy_score, confusion_matrix,precision_score,rec
 import seaborn as sb
 import matplotlib.pyplot as plt
 import pickle
+import pandas
 
 iris = load_iris()
 iris.keys()
