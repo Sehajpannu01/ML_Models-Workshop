@@ -38,3 +38,8 @@ Applications:
 5. Forecasting trends in time-series data.
 
 Linear regression assumes a linear relationship between the input variables and the output, and it works best when this assumption holds true. It is simple yet powerful, often serving as the baseline model in regression tasks.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+#Decision Tree: [DT]
+
