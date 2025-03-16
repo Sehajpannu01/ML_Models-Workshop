@@ -1,0 +1,14 @@
+#T0 Create Environment for your project
+
+cd myproject  #Navigate to your folder
+
+python -m venv .venv #create environment and a folder named .venv will appear
+
+#To Activate Environment
+.\.venv\Scripts\Activate #to make your environment Activate
+
+python -m streamlit run app.py #to run your application
+
+pip freeze > requirements.txt  #to add any new package to requirements file.
+
+pip install -r requirements.txt #to install your requirements in someone else package

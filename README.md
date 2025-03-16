@@ -1,5 +1,4 @@
-In my first project I have used KNN
-
+#KNN:
 Introduction
 The K-Nearest Neighbors (KNN) algorithm is a simple and intuitive supervised machine learning algorithm used for classification and regression tasks. The algorithm classifies a data point based on how its neighbors are classified.
 How KNN Works
@@ -11,6 +10,36 @@ How KNN Works
 Distance Metrics
 -Common distance metrics used in KNN include:
 
-1. Euclidean Distance
-2. Manhattan Distance
-3. Minkowski Distance
+- Euclidean Distance
+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+#Linear Regression:
+Linear Regression is a supervised learning algorithm used for predicting a continuous target variable based on one or more input features. It models the relationship between the dependent variable (target) and independent variables (features) by fitting a linear equation to the observed data.
+
+In the simplest form, a linear regression equation can be written as:
+
+y = mx+b
+- Where:
+
+- y is the predicted target value,
+- m = coefficient 
+- b = intercept
+​
+- The goal of linear regression is to minimize the error between the predicted and actual values by optimizing the model coefficients.
+
+Applications:
+
+1. Predicting house prices based on features like size, location, etc.
+2. Predicting Canada per capita income on yearly basis.
+3. Predicting Salaries of employees on basis of experience
+4. Estimating sales based on advertisement spending.
+5. Forecasting trends in time-series data.
+
+Linear regression assumes a linear relationship between the input variables and the output, and it works best when this assumption holds true. It is simple yet powerful, often serving as the baseline model in regression tasks.
+
+-----------------------------------------------------------------------------------------------------------------------------------------
+
+#Decision Tree: [DT]
+
